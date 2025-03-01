@@ -37,7 +37,7 @@ export default function TeamSection() {
             </div>
             <h3 className="text-xl font-semibold">Melinda Liu</h3>
             <p className="text-primary font-medium">Co-Founder</p>
-            <p className="text-muted-foreground mt-2">MIT CS & Econ '26. President of MIT Women Business Leaders.</p>
+            <p className="text-muted-foreground mt-2">MIT CS & Econ '26. Co-founder of the 501(c)(3) nonprofit J&M Sunrizon Economics.</p>
           </div>
         </div>
       </div>
